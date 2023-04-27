@@ -1,1 +1,1 @@
-# medium-lite
+An Api clone of the medium platform for article publishing
